@@ -50,4 +50,8 @@ scala/CardRaytracer/.idea/
 scala/CardRaytracer/target/
 experimental/scala/CardRaytracer/.idea/
 experimental/scala/CardRaytracer/target/
+*/\.idea/
 
+*.ppm
+
+cython/*.c
